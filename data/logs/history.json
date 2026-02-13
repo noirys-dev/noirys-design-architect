@@ -1,0 +1,233 @@
+[
+    {
+        "input": "ss.png",
+        "copy": "Minimal Design",
+        "status": "failed",
+        "error": "[Errno 2] No such file or directory: '/Users/yaseminkir/projects/noirys-design-architect/assets/backgrounds/ai_generated/bg_banana_ss.png'",
+        "timestamp": "2026-02-13 12:56:48"
+    },
+    {
+        "input": "ss2.png",
+        "copy": "Minimal Design",
+        "status": "failed",
+        "error": "[Errno 2] No such file or directory: '/Users/yaseminkir/projects/noirys-design-architect/assets/backgrounds/ai_generated/bg_banana_ss2.png'",
+        "timestamp": "2026-02-13 12:57:55"
+    },
+    {
+        "input": "ss3.png",
+        "copy": "Minimal Design",
+        "status": "failed",
+        "error": "[Errno 2] No such file or directory: '/Users/yaseminkir/projects/noirys-design-architect/assets/backgrounds/ai_generated/bg_banana_ss3.png'",
+        "timestamp": "2026-02-13 12:59:00"
+    },
+    {
+        "input": "ss.png",
+        "copy": "Minimal Design",
+        "status": "failed",
+        "error": "[Errno 2] No such file or directory: '/Users/yaseminkir/projects/noirys-design-architect/assets/backgrounds/ai_generated/bg_banana_ss.png'",
+        "timestamp": "2026-02-13 14:25:45"
+    },
+    {
+        "input": "ss2.png",
+        "copy": "Minimal Design",
+        "status": "failed",
+        "error": "[Errno 2] No such file or directory: '/Users/yaseminkir/projects/noirys-design-architect/assets/backgrounds/ai_generated/bg_banana_ss2.png'",
+        "timestamp": "2026-02-13 14:26:51"
+    },
+    {
+        "input": "ss3.png",
+        "copy": "Minimal Design",
+        "status": "failed",
+        "error": "[Errno 2] No such file or directory: '/Users/yaseminkir/projects/noirys-design-architect/assets/backgrounds/ai_generated/bg_banana_ss3.png'",
+        "timestamp": "2026-02-13 14:27:57"
+    },
+    {
+        "input": "ss.png",
+        "copy": "design is chaos",
+        "status": "failed",
+        "error": "[Errno 2] No such file or directory: '/Users/yaseminkir/projects/noirys-design-architect/assets/backgrounds/ai_generated/bg_noirys_ss.png'",
+        "timestamp": "2026-02-13 14:33:34"
+    },
+    {
+        "input": "ss2.png",
+        "copy": "design is chaos",
+        "status": "failed",
+        "error": "[Errno 2] No such file or directory: '/Users/yaseminkir/projects/noirys-design-architect/assets/backgrounds/ai_generated/bg_noirys_ss2.png'",
+        "timestamp": "2026-02-13 14:33:46"
+    },
+    {
+        "input": "ss3.png",
+        "copy": "design is chaos",
+        "status": "failed",
+        "error": "[Errno 2] No such file or directory: '/Users/yaseminkir/projects/noirys-design-architect/assets/backgrounds/ai_generated/bg_noirys_ss3.png'",
+        "timestamp": "2026-02-13 14:33:56"
+    },
+    {
+        "input": "ss.png",
+        "copy": "Experience Clarity",
+        "status": "success",
+        "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+        "timestamp": "2026-02-13 15:09:37"
+    },
+    {
+        "input": "ss2.png",
+        "copy": "Experience Clarity",
+        "status": "success",
+        "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+        "timestamp": "2026-02-13 15:10:09"
+    },
+    {
+        "input": "ss3.png",
+        "copy": "Experience Clarity",
+        "status": "success",
+        "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+        "timestamp": "2026-02-13 15:10:41"
+    },
+    {
+        "input": "ss.png",
+        "copy": "Experience Clarity",
+        "status": "success",
+        "error": "Error code: 400 - {'error': {'message': 'The model `llama-3.2-90b-vision-preview` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}",
+        "timestamp": "2026-02-13 15:30:10"
+    },
+    {
+        "input": "ss2.png",
+        "copy": "Experience Clarity",
+        "status": "success",
+        "error": "Error code: 400 - {'error': {'message': 'The model `llama-3.2-90b-vision-preview` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}",
+        "timestamp": "2026-02-13 15:30:42"
+    },
+    {
+        "input": "ss.png",
+        "copy": "Experience Clarity",
+        "status": "success",
+        "error": "Error code: 400 - {'error': {'message': 'The model `llama-3.2-11b-vision-preview` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}",
+        "timestamp": "2026-02-13 15:30:55"
+    },
+    {
+        "input": "ss3.png",
+        "copy": "Experience Clarity",
+        "status": "success",
+        "error": "Error code: 400 - {'error': {'message': 'The model `llama-3.2-90b-vision-preview` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}",
+        "timestamp": "2026-02-13 15:31:14"
+    },
+    {
+        "input": "ss2.png",
+        "copy": "Experience Clarity",
+        "status": "success",
+        "error": "Error code: 400 - {'error': {'message': 'The model `llama-3.2-11b-vision-preview` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}",
+        "timestamp": "2026-02-13 15:31:27"
+    },
+    {
+        "input": "ss.png",
+        "copy": "Experience Clarity",
+        "status": "success",
+        "error": "Error code: 400 - {'error': {'message': 'The model `llama-3.2-11b-vision-preview` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}",
+        "timestamp": "2026-02-13 15:31:37"
+    },
+    {
+        "input": "ss3.png",
+        "copy": "Experience Clarity",
+        "status": "success",
+        "error": "Error code: 400 - {'error': {'message': 'The model `llama-3.2-11b-vision-preview` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}",
+        "timestamp": "2026-02-13 15:31:58"
+    },
+    {
+        "input": "ss2.png",
+        "copy": "Experience Clarity",
+        "status": "success",
+        "error": "Error code: 400 - {'error': {'message': 'The model `llama-3.2-11b-vision-preview` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}",
+        "timestamp": "2026-02-13 15:32:08"
+    },
+    {
+        "input": "ss3.png",
+        "copy": "Experience Clarity",
+        "status": "success",
+        "error": "Error code: 400 - {'error': {'message': 'The model `llama-3.2-11b-vision-preview` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}",
+        "timestamp": "2026-02-13 15:32:40"
+    },
+    {
+        "input": "ss.png",
+        "copy": "Experience Clarity",
+        "status": "success",
+        "error": "Error code: 404 - {'error': {'message': 'The model `llama-4-scout-17b-16e-instruct` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
+        "timestamp": "2026-02-13 15:33:35"
+    },
+    {
+        "input": "ss2.png",
+        "copy": "Experience Clarity",
+        "status": "success",
+        "error": "Error code: 404 - {'error': {'message': 'The model `llama-4-scout-17b-16e-instruct` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
+        "timestamp": "2026-02-13 15:34:06"
+    },
+    {
+        "input": "ss3.png",
+        "copy": "Experience Clarity",
+        "status": "success",
+        "error": "Error code: 404 - {'error': {'message': 'The model `llama-4-scout-17b-16e-instruct` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
+        "timestamp": "2026-02-13 15:34:38"
+    },
+    {
+        "input": "ss.png",
+        "copy": "Capture Style On The Go",
+        "status": "success",
+        "error": "none",
+        "timestamp": "2026-02-13 15:37:16"
+    },
+    {
+        "input": "ss2.png",
+        "copy": "Secure Voice Calling",
+        "status": "success",
+        "error": "none",
+        "timestamp": "2026-02-13 15:37:51"
+    },
+    {
+        "input": "ss3.png",
+        "copy": "Secure Chat Settings",
+        "status": "success",
+        "error": "none",
+        "timestamp": "2026-02-13 15:38:26"
+    },
+    {
+        "input": "ss.png",
+        "category": "General",
+        "status": "success",
+        "error": "none",
+        "timestamp": "2026-02-13 16:23:17"
+    },
+    {
+        "input": "ss2.png",
+        "category": "General",
+        "status": "success",
+        "error": "none",
+        "timestamp": "2026-02-13 16:23:29"
+    },
+    {
+        "input": "ss3.png",
+        "category": "General",
+        "status": "success",
+        "error": "none",
+        "timestamp": "2026-02-13 16:23:41"
+    },
+    {
+        "input": "ss.png",
+        "category": "Video Calling App",
+        "status": "success",
+        "error": "none",
+        "timestamp": "2026-02-13 16:25:38"
+    },
+    {
+        "input": "ss2.png",
+        "category": "Calling App",
+        "status": "success",
+        "error": "none",
+        "timestamp": "2026-02-13 16:25:51"
+    },
+    {
+        "input": "ss3.png",
+        "category": "Social Networking App",
+        "status": "success",
+        "error": "none",
+        "timestamp": "2026-02-13 16:26:04"
+    }
+]
